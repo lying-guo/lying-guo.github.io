@@ -1,0 +1,15 @@
+.headerNav {
+  padding: 20px 0;
+}
+.headerNav .logo span {
+  font-family: NSimSun;
+  font-size: 35px;
+  letter-spacing: 1px;
+  padding: 20px ;
+}
+.headerNav .header-nav ul li {
+  float: left;
+}
+.headerNav .search-warp {
+  float: right;
+}
